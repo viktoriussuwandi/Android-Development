@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!--    <color name="colorPrimary">#E3D9C5</color>-->
+<!--    <color name="colorPrimaryDark">#B3BBA9</color>-->
+<!--    <color name="colorAccent">#DDBFAA</color>-->
+
+    <color name="colorPrimary">#E3D9C5</color>
+    <color name="colorPrimaryDark">#B3BBA9</color>
+    <color name="colorAccent">#546E7A</color>
+    <color name="toolbar">#546E7A</color>
+    <color name="mainbackground1">#78909C</color>
+    <color name="mainbackground2">#424242</color>
+    <color name="mainbackground3">#DCEDC8</color>
+    <color name="mainbackground4">#D7CCC8</color>
+    <color name="maintext">#EEEEEE</color>
+    <color name="subbackground1">#ECEFF1</color>
+    <color name="subbackground2">#546E7A</color>
+    <color name="subtext">#ECEFF1</color>
+    <color name="btn1">#E0F7FA</color>
+    <color name="btn2">#0288D1</color>
+    <color name="btn3">#E53935</color>
+
+</resources>

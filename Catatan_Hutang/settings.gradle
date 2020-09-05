@@ -1,0 +1,2 @@
+rootProject.name='Catatan_Hutang'
+include ':app'
